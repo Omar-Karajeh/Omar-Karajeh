@@ -1,38 +1,40 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Omar Karajeh</h1>
-<h3 align="center">SOC Analyst | Threat Detection & Incident Response | Amman, Jordan 🇯🇴</h3>
+<h3 align="center">SOC Analyst | Threat Detection & Incident Response | Amman, Jordan</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Omar-Karajeh&label=Profile%20views&color=0e75b6&style=flat" alt="Omar-Karajeh" />
 </p>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=SOC+Analyst+%7C+Blue+Team;Splunk+%7C+SIEM+%7C+AD+Security;SIGMA+Rules+%7C+Threat+Detection;MITRE+ATT%26CK+%7C+Incident+Response;Always+learning+new+things&font=Fira+Code&center=true&width=500&height=50&color=0e75b6&vCenter=true&pause=1000&size=18"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=SOC+Analyst+%7C+Blue+Team;Splunk+%7C+SIEM+%7C+AD+Security;SIGMA+Rules+%7C+Threat+Detection;Always+learning+new+things&center=true&width=500&height=50"/>
 </a>
 
 ---
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="mailto:omarahmad12qw@gmail.com" title="Email">
-    <img width="32px" alt="Email" src="https://i.imgur.com/tXSoThF.png"/>
+## 🔗 Connect with me
+
+<p align="left">
+  <a href="mailto:omarahmad12qw@gmail.com" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/omar-karajeh" title="LinkedIn">
-    <img width="32px" alt="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
+  <a href="https://www.linkedin.com/in/omar-karajeh" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://github.com/Omar-Karajeh" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="30" width="40"/>
   </a>
 </p>
 
 ---
 
-<details open>
-  <summary><h2>🚀 Featured Projects</h2></summary>
-
-  <p align="left">
-    <a href="https://github.com/Omar-Karajeh/Active-Directory-Detection-Lab">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Karajeh&repo=Active-Directory-Detection-Lab&theme=react&bg_color=1F222E&title_color=0e75b6&hide_border=true&icon_color=F8D866" alt="Active-Directory-Detection-Lab"/>
+<details open> 
+  <summary><h2>📘 Featured Security Projects</h2></summary>
+  <p align="center">
+    <a href="https://github.com/Omar-Karajeh/Active_Directory_Detection_Lab">
+      <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Omar-Karajeh&repo=Active_Directory_Detection_Lab&theme=tokyonight&show_owner=false&description_lines_count=2" />
     </a>
     <a href="https://github.com/Omar-Karajeh/Incident-Response-Playbook">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Karajeh&repo=Incident-Response-Playbook&theme=react&bg_color=1F222E&title_color=0e75b6&hide_border=true&icon_color=F8D866" alt="Incident-Response-Playbook"/>
+      <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Omar-Karajeh&repo=Incident-Response-Playbook&theme=tokyonight&show_owner=false&description_lines_count=2" />
     </a>
   </p>
 </details>
@@ -89,30 +91,6 @@
     <a href="#"><img alt="Digital Forensics Fundamentals" src="https://img.shields.io/badge/Digital_Forensics_Fundamentals-NETRIDERS-2C3E50.svg?logoColor=white"></a>
     <a href="#"><img alt="CPPS" src="https://img.shields.io/badge/CPPS-Hack_%26_Fix-E74C3C.svg?logoColor=white"></a>
     <a href="#"><img alt="eCIR prep" src="https://img.shields.io/badge/eCIR_prep_Incident_Responder-NETRIDERS-3498DB.svg?logoColor=white"></a>
-  </p>
-
-</details>
-
----
-
-<details>
-  <summary><h2>📊 GitHub Stats</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-  <p>
-    <img title="🔥 Streak Stats" alt="Omar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Karajeh&theme=monokai-metallian&hide_border=true"/>
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-  <p>
-    <img alt="Omar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Omar-Karajeh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=0e75b6&icon_color=F8D866" height="192px"/>
-    <img alt="Omar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Karajeh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=0e75b6&icon_color=F8D866" height="192px"/>
-  </p>
-
-  <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=Omar-Karajeh&layout=compact&theme=algolia" alt="Omar trophies"/>
-    </a>
   </p>
 
 </details>
