@@ -36,6 +36,9 @@
     <a href="https://github.com/Omar-Karajeh/Incident-Response-Playbook">
       <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Omar-Karajeh&repo=Incident-Response-Playbook&theme=tokyonight&show_owner=false&description_lines_count=2" />
     </a>
+    <a href="https://github.com/Omar-Karajeh/CyberGlossary-AI">
+      <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Omar-Karajeh&repo=Incident-Response-Playbook&theme=tokyonight&show_owner=false&description_lines_count=2" />
+    </a>
   </p>
 </details>
 
